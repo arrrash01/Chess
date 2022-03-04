@@ -16,7 +16,7 @@ No installation required
 # License
 Distributed under the MIT License. See the [License](./LICENSE) file for more information.
 
-#Contact
+# Contact
 Arash Rajabpour Rahmati - arashrajabpour01@gmail.com
 
 Project link: https://github.com/arrrash01/Chess
