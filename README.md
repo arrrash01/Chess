@@ -14,5 +14,8 @@ To set up the project open the folder as a project in Jetbrains Pycharm and firs
 No installation required
 
 # License
-Distributed under the MIT License. See [License.txt](./LICENSE.txt) for more information.
+Distributed under the MIT License. See the [License](./LICENSE) file for more information.
 
+#Contact
+Arash Rajabpour Rahmati - arashrajabpour01@gmail.com
+Project link: https://github.com/arrrash01/Chess
