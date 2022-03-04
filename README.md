@@ -11,6 +11,7 @@ To set up the project open the folder as a project in Jetbrains Pycharm and firs
 - Jetbrains Pycharm
 
 **Installation**
+
 No installation required
 
 # License
