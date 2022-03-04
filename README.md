@@ -18,4 +18,5 @@ Distributed under the MIT License. See the [License](./LICENSE) file for more in
 
 #Contact
 Arash Rajabpour Rahmati - arashrajabpour01@gmail.com
+
 Project link: https://github.com/arrrash01/Chess
