@@ -14,5 +14,5 @@ To set up the project open the folder as a project in Jetbrains Pycharm and firs
 No installation required
 
 # License
-Distributed under the MIT License. See [/LICENSE.txt] for more information.
+Distributed under the MIT License. [See](LICENSE.txt) for more information.
 
